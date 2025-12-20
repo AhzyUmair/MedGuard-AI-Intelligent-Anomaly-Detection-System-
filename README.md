@@ -1,7 +1,8 @@
 # MedGuard-AI: Anomaly Detection System for Healthcare
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-latest-013243)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-latest-150458)](https://pandas.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-green)](https://scikit-learn.org/)
 
 
